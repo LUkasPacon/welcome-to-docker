@@ -11,7 +11,7 @@ const App = () => {
       <header className="App-header">
         <h1 style={{ marginBottom: "0px" }}>Congratulations!!!</h1>
         <p style={{ marginTop: "10px", marginBottom: "50px" }}>
-          You ran your first containerrrrrrrr.
+          You ran your first containerrrrrrrr-Lukáškův první Docker.
         </p>
         <div>
           <a
